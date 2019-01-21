@@ -35,6 +35,7 @@ class _MyAppState extends State<MyApp> {
 
     if (!mounted) return;
 
+    print('mounted: $mounted');
     setState(() {
       _platformVersion = platformVersion;
     });
@@ -48,7 +49,10 @@ class _MyAppState extends State<MyApp> {
     bool reading = true;
 
     try {
+      print('try...');
+
       response = await FlutterNfcReader.read;
+
       reading = false;
     } on PlatformException {
       response = '';

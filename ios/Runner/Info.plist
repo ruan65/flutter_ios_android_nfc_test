@@ -41,5 +41,7 @@
 	</array>
 	<key>UIViewControllerBasedStatusBarAppearance</key>
 	<false/>
+	<key>NFCReaderUsageDescription</key>
+    <string>Read info from nfc tags</string>
 </dict>
 </plist>

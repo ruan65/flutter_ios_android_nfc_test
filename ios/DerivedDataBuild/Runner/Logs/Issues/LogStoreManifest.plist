@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>9</integer>
+	<key>logs</key>
+	<dict>
+		<key>233E55CC-9116-4136-8C56-4E2821D2D5B0</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.target.product-type.framework</string>
+			<key>fileName</key>
+			<string>233E55CC-9116-4136-8C56-4E2821D2D5B0.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>W</string>
+			<key>signature</key>
+			<string>flutter_nfc_reader-fqdxhuqbmkpzkxgjwbnhtyofibve</string>
+			<key>timeStartedRecording</key>
+			<real>569800126.20845699</real>
+			<key>timeStoppedRecording</key>
+			<real>569800126.24956203</real>
+			<key>title</key>
+			<string>Build target flutter_nfc_reader</string>
+			<key>uniqueIdentifier</key>
+			<string>233E55CC-9116-4136-8C56-4E2821D2D5B0</string>
+		</dict>
+		<key>62330A40-FE41-497E-9B7B-37050F4EC74C</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.target.product-type.application</string>
+			<key>fileName</key>
+			<string>62330A40-FE41-497E-9B7B-37050F4EC74C.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>W</string>
+			<key>signature</key>
+			<string>Runner-ememjiktnbgozrdhbwvmszblzgcx</string>
+			<key>timeStartedRecording</key>
+			<real>569800126.25561297</real>
+			<key>timeStoppedRecording</key>
+			<real>569800142.26222098</real>
+			<key>title</key>
+			<string>Build target Runner</string>
+			<key>uniqueIdentifier</key>
+			<string>62330A40-FE41-497E-9B7B-37050F4EC74C</string>
+		</dict>
+		<key>C6C35F18-C49A-467D-9EF7-FF1F805EDA2A</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.target.product-type.framework</string>
+			<key>fileName</key>
+			<string>C6C35F18-C49A-467D-9EF7-FF1F805EDA2A.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>signature</key>
+			<string>Pods-Runner-fqdxhuqbmkpzkxgjwbnhtyofibve</string>
+			<key>timeStartedRecording</key>
+			<real>569800126.25041497</real>
+			<key>timeStoppedRecording</key>
+			<real>569800126.25509298</real>
+			<key>title</key>
+			<string>Build target Pods-Runner</string>
+			<key>uniqueIdentifier</key>
+			<string>C6C35F18-C49A-467D-9EF7-FF1F805EDA2A</string>
+		</dict>
+	</dict>
+	<key>preserveOldLogs</key>
+	<true/>
+</dict>
+</plist>
