@@ -20,6 +20,7 @@ class _MyAppState extends State<MyApp> {
   void initState() {
     super.initState();
     initPlatformState();
+    print('init state method');
   }
 
   // Platform messages are asynchronous, so we initialize in an async method.
@@ -40,6 +41,9 @@ class _MyAppState extends State<MyApp> {
   }
 
   Future<void> startNFC() async {
+
+    print('from startNFC() method');
+
     String response;
     bool reading = true;
 
@@ -57,6 +61,9 @@ class _MyAppState extends State<MyApp> {
   }
 
   Future<void> stopNFC() async {
+
+    print('from stopNFC() method');
+
     bool response;
     try {
       final bool result = await FlutterNfcReader.stop;
