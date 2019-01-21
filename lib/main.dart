@@ -85,7 +85,7 @@ class _MyAppState extends State<MyApp> {
     return new MaterialApp(
       home: new Scaffold(
           appBar: new AppBar(
-            title: const Text('Plugin example app'),
+            title: const Text('Redsys NFC Crossplatform reader'),
           ),
           body: new SafeArea(
             top: true,
